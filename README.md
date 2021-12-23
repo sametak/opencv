@@ -1,0 +1,2 @@
+# opencv
+Kişisel Opencv notlarım
